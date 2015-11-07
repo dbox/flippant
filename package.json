@@ -1,7 +1,16 @@
 {
   "name": "sassdoc-theme-flippant",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A modified version of Sassdoc's default theme",
+  "files": [
+    "assets",
+    "views",
+    "dist",
+    "default.json",
+    "index.js",
+    "LICENSE.md",
+    "README.md"
+  ],
   "main": "dist",
   "scripts": {},
   "repository": {
