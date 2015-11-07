@@ -3,15 +3,6 @@
   "version": "0.0.2",
   "description": "A modified version of Sassdoc's default theme",
   "main": "dist",
-  "files": [
-      "assets",
-      "views",
-      "dist",
-      "default.json",
-      "index.js",
-      "LICENSE.md",
-      "README.md"
-    ],
   "scripts": {},
   "repository": {
     "type": "git",
