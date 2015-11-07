@@ -2,6 +2,9 @@
   "name": "sassdoc-theme-flippant",
   "version": "0.1.0",
   "description": "A modified version of Sassdoc's default theme",
+  "keywords": [
+    "sassdoc-theme"  
+  ],
   "files": [
     "assets",
     "views",
