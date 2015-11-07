@@ -1,6 +1,6 @@
 {
   "name": "sassdoc-theme-flippant",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A modified version of Sassdoc's default theme",
   "main": "dist",
   "scripts": {},
